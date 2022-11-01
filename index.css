@@ -1,0 +1,85 @@
+header{
+    background-color: red;
+    color:rgb(26, 25, 19);
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 20px;
+    background-image: url("/Espérance-nvo.jpg");
+    background-position: center
+    ;
+}
+
+footer{
+    background-color:gold ;
+    color: red;
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 20px; 
+    background-image: url("/images.jpg");
+    background-position: center
+    ;
+    background-repeat: no-repeat;
+
+    height: 100%;
+    background-size: cover;
+}
+
+section{
+    padding-top: 100px;
+    padding-bottom: 100px;
+    text-align: center;
+   
+   
+    
+
+}
+.b1{
+    margin-top: 20px;
+    margin-right: 70PX;
+    background: red;
+    color: yellow;
+    padding: 5px 10px;
+    border-radius: 20px;
+    border: 1px solid black;
+    cursor: pointer;
+}
+
+.b2{
+    margin-top: 20px;
+    margin-right: 10PX;
+    background: red;
+    color: yellow;
+    padding: 5px 10px;
+    border-radius: 20px;
+    border: 1px solid black;
+    cursor: pointer;
+}
+  
+img{
+
+    width: 200px;
+height:  250px;
+
+    
+   
+    
+
+}
+    
+.v1{
+    
+}
+video{
+    width: 400px;
+    height: 300PX; ;
+
+}
+main{
+    
+}
