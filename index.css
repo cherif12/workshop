@@ -21,7 +21,7 @@ footer{
     padding-top: 10px;
     padding-bottom: 10px;
     border-radius: 20px; 
-    background-image: url("/images.jpg");
+    background-image: url("/287340029_430108725768849_5404596064337194406_n.jpg");
     background-position: center
     ;
     background-repeat: no-repeat;
@@ -82,4 +82,13 @@ video{
 }
 main{
     
+}
+.map{
+    padding-right: 50%;
+}
+.tab{
+    width: 200px;
+
+    border: solid 1px rgb(13, 10, 10)
+    ;
 }
